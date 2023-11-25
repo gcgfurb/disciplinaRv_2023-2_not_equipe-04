@@ -2,3 +2,4 @@ unidade_3/ProjetoRealidadeVirtual/Assets/Editor/Migration/* filter=lfs diff=lfs 
 unidade_3/ProjetoRealidadeVirtual/Packages/* filter=lfs diff=lfs merge=lfs -text
 unidade_3/ProjetoRealidadeVirtual/Packages/* filter=lfs diff=lfs merge=lfs -text
 Packages/com.ptc.vuforia.engine-10.17.4.tgz filter=lfs diff=lfs merge=lfs -text
+com.ptc.vuforia.engine-10.18.4.tgz filter=lfs diff=lfs merge=lfs -text
