@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bitgem/StylisedWater/URP/Examples/Menu_scene.unity
+    guid: ac2f1269338a0014facb013798c9f1a3
+  - enabled: 1
+    path: Assets/Bitgem/StylisedWater/URP/Examples/Example-Scene-01.unity
+    guid: fc967860e2508924e943ba0223c2ed3b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 54cdd1f3a41c10547ab124c177cc2a52,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2cd4653bf73303344862249af5536172,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 70cc30d00b2e9fc499b3681947860a63,
+      type: 2}
